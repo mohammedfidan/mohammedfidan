@@ -34,8 +34,4 @@ Computer Science graduate with hands-on experience in networking, IT support and
 
 ---
 
-## How To Reach Me 
-Email:mohammedfidan89@gmail.com
-
----
 📬 Feel free to reach out or explore my repositories!
